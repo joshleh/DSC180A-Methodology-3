@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Joshua Lee
-jdlee@ucsd.edu
+Joshua Lee and Zoya Hasan
+
